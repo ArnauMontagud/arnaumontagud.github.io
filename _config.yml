@@ -1,3 +1,5 @@
 	theme: jekyll-theme-cayman
 	name: Arnau Montagud
 	markdown: kramdown
+
+theme: jekyll-theme-slate

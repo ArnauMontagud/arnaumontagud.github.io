@@ -5,7 +5,7 @@ title: Arnau Montagud
 
 # [](#header-1)Multiobjective evolutionary algorithm
 
-[Link to specify webpage](https://arnaumontagud.github.io/metamode)
+[Link to specific webpage](https://arnaumontagud.github.io/metamode)
 
 ## [](#header-2)Header 2
 

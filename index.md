@@ -2,7 +2,8 @@
 layout: single
 title: "Arnau Montagud page"
 description: "Resources, figures and supplementary material of works."
-name: "Arnau Montagud"
+#name: "Arnau Montagud"
+author: Arnau Montagud
 ---
 
 # [](#header-1)Multiobjective evolutionary algorithm

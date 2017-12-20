@@ -1,6 +1,5 @@
 ---
 layout: single
-title: Arnau Montagud works
 author: Arnau Montagud
 ---
 

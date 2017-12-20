@@ -4,9 +4,9 @@ minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark",
 #plugins:
 #  - jekyll-remote-theme
 
-title: Arnau Montagud personal page
+title: Arnau Montagud works
 description: "Resources, figures and supplementary material of works."
-name: "Arnau Montagud"
+#name: "Arnau Montagud"
 
 author:
   name   : "Arnau Montagud"

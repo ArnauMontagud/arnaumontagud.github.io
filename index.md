@@ -4,7 +4,7 @@ author: Arnau Montagud
 description: Resources, figures and supplementary material of works.
 ---
 
-# [](#header-1)Arnau Montagud page
+# []
 
 ## [](#header-2)Multiobjective evolutionary algorithm
 [Link to specific webpage](https://arnaumontagud.github.io/metamode)

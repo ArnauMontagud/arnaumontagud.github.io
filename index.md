@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Arnau Montagud
+layout: single
+title: "Arnau Montagud"
 name: "Arnau Montagud"
 ---
 

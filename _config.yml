@@ -14,7 +14,7 @@ author:
   bio    : "Systems Biology and Data analyses"
 #  email  : # optional
   uri    : "https://www.researchgate.net/profile/Arnau_Montagud"
-  home   : # null (default), "absolute or relative url to link to author home"
+  home   : "https://www.researchgate.net/profile/Arnau_Montagud"
   
 defaults:
   # _posts

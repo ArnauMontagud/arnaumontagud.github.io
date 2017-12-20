@@ -7,4 +7,15 @@ minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "d
 title: Arnau Montagud personal page
 description: Resources, figures and supplementary material of works.
 
-  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false

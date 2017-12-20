@@ -1,7 +1,6 @@
 ---
 layout: default
 author: Arnau Montagud
-description: Resources, figures and supplementary material of works.
 ---
 # Index
 ## [](#header-2)Multiobjective evolutionary algorithm

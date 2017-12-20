@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Arnau Montagud
+name: "Arnau Montagud"
 ---
 
 # [](#header-1)Multiobjective evolutionary algorithm

@@ -1,4 +1,3 @@
-remote_theme: owner/name
-    theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes" 
 title: Arnau Montagud personal page
 description: Resources, figures and supplementary material of works.

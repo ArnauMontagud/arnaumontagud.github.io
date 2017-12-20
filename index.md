@@ -1,10 +1,11 @@
 ---
 layout: single
-title: "Resources, figures and supplementary material of works."
+#title: "Resources, figures and supplementary material of works."
 #description: "Resources, figures and supplementary material of works."
 #name: "Arnau Montagud"
 author: Arnau Montagud
 ---
+# [](#header-2)Resources, figures and supplementary material of works.
 
 ## [](#header-2)Multiobjective evolutionary algorithm
 

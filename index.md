@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Arnau Montagud"
+#title: "Arnau Montagud"
 name: "Arnau Montagud"
 ---
 

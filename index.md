@@ -1,7 +1,6 @@
 ---
 layout: single
 author: Arnau Montagud
-#title: Arnau Montagud works
 description: Resources, figures and supplementary material of works.
 ---
 

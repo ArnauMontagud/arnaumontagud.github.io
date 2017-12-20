@@ -2,6 +2,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: "mmistakes/minimal-mistakes" 
+minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 title: Arnau Montagud personal page
 description: Resources, figures and supplementary material of works.
 

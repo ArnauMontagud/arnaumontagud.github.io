@@ -1,3 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes" 
 title: Arnau Montagud personal page
 description: Resources, figures and supplementary material of works.
+
+plugins:
+  - jekyll-remote-theme
+  

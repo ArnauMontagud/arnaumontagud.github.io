@@ -3,7 +3,9 @@ layout: default
 title: Arnau Montagud
 ---
 
-# [](#header-1)Multiobjective evolutionary algorithm allows more accurate genome-scale fluxes simulations with a handful experimental values
+# [](#header-1) Supplementary figures for Multiobjective evolutionary algorithm work
+
+Multiobjective evolutionary algorithm allows more accurate genome-scale fluxes simulations with a handful experimental values
 
 Keywords: metabolic modelling, nonlinear optimization, Synechocystis sp. PCC6803
 

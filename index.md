@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Arnau Montagud"
+title: "Resources, figures and supplementary material of works."
 name: "Arnau Montagud"
 ---
 
